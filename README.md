@@ -50,7 +50,7 @@ In a competitive streaming market, "growth" isn't just about new signups—it's 
 * **The "Aha! Moment":** Users who create more than **5 playlists** in their first month show a 25% higher retention rate.
 * **Roadmap Priority:** "Mood-based Auto Playlists" emerged as the #1 requested feature, outperforming "Concert Alerts" by 15%.
 * **Statistically Significant Lift:** Premium users report a significantly higher satisfaction rating (p < 0.05), validating the value proposition of the paid tier.
-* **![Link to Images](https://github.com/cbonnin88/SoundStream/tree/main/images)**
+* **[Link to Images](https://github.com/cbonnin88/SoundStream/tree/main/images)**
 
 ---
 
