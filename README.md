@@ -89,4 +89,4 @@ In a competitive streaming market, "growth" isn't just about new signups—it's 
     ```
 
 ## 📬 Contact
-**[Christopher Bonnin]** *Product Manager: Data and Analytics* [LinkedIN](https://www.linkedin.com/in/christopher-bonnin-a08a95197/)
+**Christopher Bonnin** *Product Manager: Data and Analytics:*  [My LinkedIn profile](https://www.linkedin.com/in/christopher-bonnin-a08a95197/)
