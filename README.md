@@ -1,4 +1,4 @@
-# Echo: Strategic Growth & Behavioral Analytics for SoundStream
+# Strategic Growth & Behavioral Analytics for SoundStream
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Polars](https://img.shields.io/badge/Polars-CD7F32?style=for-the-badge)
